@@ -1,0 +1,86 @@
+number is=44
+44 is palindrome
+number is=54
+54 is not a  palindrome
+number is=25
+25 is not a  palindrome
+number is=22
+22 is palindrome
+number is=65
+65 is not a  palindrome
+number is=65
+65 is not a  palindrome
+number is=66
+66 is palindrome
+number is=63
+63 is not a  palindrome
+number is=6
+6 is palindrome
+number is=5
+5 is palindrome
+number is=545
+545 is palindrome
+number is=55
+55 is palindrome
+number is=101
+101 is palindrome
+number is=203
+203 is not a  palindrome
+number is=505
+505 is palindrome
+number is=525
+525 is palindrome
+number is=45
+45 is not a  palindrome
+number is=121
+121 is not a  palindrome
+number is=25
+25 is not a  palindrome
+number is=34
+34 is not a  palindrome
+number is=656
+656 is not a  palindrome
+number is=121
+121 is palindrome
+number is=41
+41 is not a  palindrome
+number is=11
+11 is palindrome
+number is=21
+21 is not a  palindrome
+number is=52
+52 is not a  palindrome
+number is=54
+54 is not a  palindrome
+number is=54
+54 is not a  palindrome
+number is=54
+54 is not a  palindrome
+number is=5
+5 is palindrome
+number is=22
+22 is palindrome
+number is=5
+5 is palindrome
+number is=44
+44 is palindrome
+number is=65
+65 is not a  palindrome
+number is=23
+23 is not a  palindrome
+number is=33
+33 is palindrome
+number is=6645
+6645 is not a  palindrome
+number is=552
+552 is not a  palindrome
+number is=63
+63 is not a  palindrome
+number is=101
+101 is palindrome
+number is=111
+111 is palindrome
+number is=141
+141 is palindrome
+number is=120
+120 is not a  palindrome

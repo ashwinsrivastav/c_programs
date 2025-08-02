@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748894023 source:d:\cc\income\main.c
+	<stdio.h>
+	<stdlib.h>
+
